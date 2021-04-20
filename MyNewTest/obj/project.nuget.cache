@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "aIsH9453HLXRNFbyTuUKwQB9rsNdWG/QTdBFiSwY5O1sjwif/oOvuqL6vC2WBMN/NGxUMa4Qjz800vTSwB+v4Q==",
+  "success": true,
+  "projectFilePath": "E:\\FirstCloud\\PDFtoTiff\\MyNewTest\\MyNewTest.vbproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sa1060\\.nuget\\packages\\microsoft.codecoverage\\16.5.0\\microsoft.codecoverage.16.5.0.nupkg.sha512",
+    "C:\\Users\\sa1060\\.nuget\\packages\\microsoft.net.test.sdk\\16.5.0\\microsoft.net.test.sdk.16.5.0.nupkg.sha512",
+    "C:\\Users\\sa1060\\.nuget\\packages\\nunit\\3.12.0\\nunit.3.12.0.nupkg.sha512",
+    "C:\\Users\\sa1060\\.nuget\\packages\\nunit3testadapter\\3.16.1\\nunit3testadapter.3.16.1.nupkg.sha512"
+  ],
+  "logs": []
+}

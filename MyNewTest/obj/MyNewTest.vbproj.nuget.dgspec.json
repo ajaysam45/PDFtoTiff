@@ -1,0 +1,75 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\FirstCloud\\PDFtoTiff\\MyNewTest\\MyNewTest.vbproj": {}
+  },
+  "projects": {
+    "E:\\FirstCloud\\PDFtoTiff\\MyNewTest\\MyNewTest.vbproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\FirstCloud\\PDFtoTiff\\MyNewTest\\MyNewTest.vbproj",
+        "projectName": "MyNewTest",
+        "projectPath": "E:\\FirstCloud\\PDFtoTiff\\MyNewTest\\MyNewTest.vbproj",
+        "packagesPath": "C:\\Users\\sa1060\\.nuget\\packages\\",
+        "outputPath": "E:\\FirstCloud\\PDFtoTiff\\MyNewTest\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\sa1060\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net452"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net452": {
+            "targetAlias": "net452",
+            "projectReferences": {
+              "E:\\FirstCloud\\PDFtoTiff\\PDFtoTiff\\PDFtoTiff.vbproj": {
+                "projectPath": "E:\\FirstCloud\\PDFtoTiff\\PDFtoTiff\\PDFtoTiff.vbproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net452": {
+          "targetAlias": "net452",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.5.0, )"
+            },
+            "NUnit": {
+              "target": "Package",
+              "version": "[3.12.0, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[3.16.1, )"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\FirstCloud\\PDFtoTiff\\PDFtoTiff\\PDFtoTiff.vbproj": {
+      "restore": {
+        "projectUniqueName": "E:\\FirstCloud\\PDFtoTiff\\PDFtoTiff\\PDFtoTiff.vbproj",
+        "projectName": "PDFtoTiff",
+        "projectPath": "E:\\FirstCloud\\PDFtoTiff\\PDFtoTiff\\PDFtoTiff.vbproj"
+      },
+      "frameworks": {
+        "net452": {}
+      }
+    }
+  }
+}

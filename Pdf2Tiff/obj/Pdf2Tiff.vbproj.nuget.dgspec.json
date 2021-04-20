@@ -1,0 +1,61 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\FirstCloud\\PDFtoTiff\\Pdf2Tiff\\Pdf2Tiff.vbproj": {}
+  },
+  "projects": {
+    "E:\\FirstCloud\\PDFtoTiff\\Pdf2Tiff\\Pdf2Tiff.vbproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\FirstCloud\\PDFtoTiff\\Pdf2Tiff\\Pdf2Tiff.vbproj",
+        "projectName": "Pdf2Tiff",
+        "projectPath": "E:\\FirstCloud\\PDFtoTiff\\Pdf2Tiff\\Pdf2Tiff.vbproj",
+        "packagesPath": "C:\\Users\\sa1060\\.nuget\\packages\\",
+        "outputPath": "E:\\FirstCloud\\PDFtoTiff\\Pdf2Tiff\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\sa1060\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net462"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net462": {
+            "targetAlias": "net462",
+            "projectReferences": {
+              "E:\\FirstCloud\\PDFtoTiff\\PDFtoTiff\\PDFtoTiff.vbproj": {
+                "projectPath": "E:\\FirstCloud\\PDFtoTiff\\PDFtoTiff\\PDFtoTiff.vbproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net462": {
+          "targetAlias": "net462",
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\FirstCloud\\PDFtoTiff\\PDFtoTiff\\PDFtoTiff.vbproj": {
+      "restore": {
+        "projectUniqueName": "E:\\FirstCloud\\PDFtoTiff\\PDFtoTiff\\PDFtoTiff.vbproj",
+        "projectName": "PDFtoTiff",
+        "projectPath": "E:\\FirstCloud\\PDFtoTiff\\PDFtoTiff\\PDFtoTiff.vbproj"
+      },
+      "frameworks": {
+        "net452": {}
+      }
+    }
+  }
+}
